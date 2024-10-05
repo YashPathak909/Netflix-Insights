@@ -5,7 +5,7 @@
 
 
 ## Project Overview
-This project involves the analysis of a synthetic dataset representing a snapshot of a sample Netflix userbase. The dataset includes information on various aspects of user subscriptions, revenue, account details, and user activity. Using Power BI, we have created interactive visualizations and reports to uncover insights about user trends, preferences, and revenue generation.
+This project involves the analysis of a synthetic dataset representing a snapshot of a sample Netflix userbase. The dataset includes information on various aspects of user subscriptions, revenue, account details, and user activity. Using Power BI, I have created interactive visualizations and reports to uncover insights about user trends, preferences, and revenue generation.
 
 ## Dataset Description
 ### The dataset contains the following columns:
