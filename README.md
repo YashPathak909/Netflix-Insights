@@ -1,7 +1,7 @@
 # Netflix Userbase Analysis with Power BI
 
 ### Author: Yash Pathak
-### Dataset (Kaggle): https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset/data
+### Dataset (Kaggle): https://www.kaggle.com/datasets/yashpathak18/netflix-userbase-dataset
 
 
 ## Project Overview
